@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ikhsanmoh/fe_dumbgram.git
+[submodule "server"]
+	path = server
+	url = https://github.com/ikhsanmoh/be_dumbgram.git
